@@ -1,1 +1,17 @@
 # Placeholder for files to ignore  
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+*.env
+*.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
