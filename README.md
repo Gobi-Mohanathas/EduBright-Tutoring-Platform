@@ -16,8 +16,6 @@ Running Tests
 Deployment
 ## Additional notes on how to deply live system
 
-Tech Stack
-## List of tech used and for what
 Contributing
 
 Please read contributing.md for detail on our code of conduct, and process of submitting pull requests to us.
